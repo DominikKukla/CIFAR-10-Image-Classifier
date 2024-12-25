@@ -1,5 +1,9 @@
 # The  CIFAR-10 dataset classification
 
+This project was jointly developed by:
+- [Dominik Kukla](https://github.com/DominikKukla)
+- [Dzmitry Pihulski](https://github.com/DzmitryPihulski)
+
 ## Description
 In this repo, some basic models of deep learning were compared in the classification:
 
